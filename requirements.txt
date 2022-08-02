@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+fastapi
+psycopg2
+matplotlib==3.5.2
+uvicorn
+scipy
